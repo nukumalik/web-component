@@ -11,7 +11,7 @@ Web component is the way to create custom element to make you faster in dovelopm
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ git clone https://github.com/nukumalik/web-components.git
+$ git clone https://github.com/nukumalik/web-component.git
 $ cd web-components
 $ npm i -g browserify && npm i
 ```
